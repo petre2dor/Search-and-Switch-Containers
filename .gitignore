@@ -1,2 +1,5 @@
 # IntelliJ IDEA
 .idea/
+web-ext-artifacts/
+ff-constainers.code-workspace
+.web-extension-id
